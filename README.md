@@ -21,12 +21,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/prince4ademola/prince4ademola)
 ![GitHub watchers](https://img.shields.io/github/watchers/prince4ademola/prince4ademola?style=social)
 
-<div style="display: flex;">
-
-  <div style="flex: 1; padding: 20px; border: 1px solid #ccc;">
-
-  <p align="center">
-  <img src="./img/profile%20Picture.jpg" alt="Profile picture" height=300;width="300" />
+![Profile picture](./img/profile%20Picture.jpg)
 
 ## About Me
 
@@ -34,11 +29,6 @@ Hello there! 👋 I'm Rasaq Adeleke, an Animal Nutritionist with a master's
 degree, originally from Nigeria and currently residing in Belgium. While my
 primary language is English, my journey has taken me into the fascinating world
 of front-end development.
-
-</p>
-  </div>
-
-  <div style="flex: 1; padding: 20px; border: 1px solid #ccc;">
 
 ## Transition to Front-End Development
 
@@ -57,11 +47,6 @@ attention to detail, and a commitment to continuous learning.
 I describe myself as an energetic and ambitious individual who approaches
 day-to-day tasks and challenges with maturity and responsibility. I believe in
 the power of learning and collaboration to unlock new possibilities.
-
-</p>
-  </div>
-
-</div>
 
 ## Contact Information
 
