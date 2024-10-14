@@ -25,22 +25,22 @@
 
 ## About Me
 
-Hello there! 👋 I'm Rasaq Adeleke, an Animal Nutritionist with a master's
-degree, originally from Nigeria and currently residing in Belgium. While my
-primary language is English, my journey has taken me into the fascinating world
-of front-end development.
+Hello there! 👋 Hello there! 👋 I am Rasaq Adeleke, an Animal Nutritionist with a master's degree, originally from Nigeria. 
+I currently reside in Nigeria, though my career journey has taken me across countries like South Africa, Asia, and Europe. 
+While my primary language is English, my path has led me into the fascinating world of front-end development.
 
 ## Transition to Front-End Development
 
-As a new learner in front-end development, I am fueled by curiosity and
-enthusiasm to explore the ever-evolving tech landscape. I'm eager to apply my
-problem-solving skills from my previous field to the world of web development.
+As a front-end and back-end developer, I am driven by curiosity and enthusiasm to explore the ever-evolving tech landscape. 
+I am excited to apply my problem-solving skills from my previous experience to the world of web development.
 
 ## Professional Background
 
-I bring a unique perspective to the world of coding, having spent years in the
-field of animal nutrition. My experience has taught me the value of discipline,
-attention to detail, and a commitment to continuous learning.
+I bring a distinct perspective to the world of coding, having spent years in the
+field of animal nutrition. My background has instilled in me the importance of discipline, precision, and 
+an unwavering commitment to continuous learning, qualities that seamlessly translate into the tech world.
+This combination of skills allows me to approach coding with a unique lens, blending scientific rigor with 
+creativity to solve complex problems and build innovative solutions.
 
 ## Personal Traits
 
@@ -80,6 +80,12 @@ the power of learning and collaboration to unlock new possibilities.
 - HTML
 - CSS
 - JavaScript
+- React
+
+### Back-End Technologies
+- Node.js
+- MongoDB
+- RESTful APIs 
 
 ### Version Control
 
@@ -99,12 +105,15 @@ the power of learning and collaboration to unlock new possibilities.
 ### Languages
 
 - English (proficient)
-- Dutch (Beginner)
+- Yoruba (proficient)
+- Dutch (Intermediate) 
 
 ### Professional Background
 
 - Animal nutrition
 - Data analysis (Power BI & Excel)
+- Software Engineer
+- Graphic design
 
 ### Learning and Adaptability
 
