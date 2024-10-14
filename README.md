@@ -25,14 +25,14 @@
 
 ## About Me
 
-Hello there! 👋 Hello there! 👋 I am Rasaq Adeleke, an Animal Nutritionist with a master's degree, originally from Nigeria. 
+Hello there! 👋 I am Rasaq Adeleke, an Animal Nutritionist with a master's degree, originally from Nigeria. 
 I currently reside in Nigeria, though my career journey has taken me across countries like South Africa, Asia, and Europe. 
 While my primary language is English, my path has led me into the fascinating world of front-end development.
 
 ## Transition to Front-End Development
 
 As a front-end and back-end developer, I am driven by curiosity and enthusiasm to explore the ever-evolving tech landscape. 
-I am excited to apply my problem-solving skills from my previous experience to the world of web development.
+I am excited to apply the problem-solving skills I have gained from my previous experience to the world of web development.
 
 ## Professional Background
 
